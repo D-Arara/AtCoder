@@ -60,4 +60,3 @@ while q:
         exit()
 
 print(-1)
-
